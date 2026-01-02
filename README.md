@@ -46,7 +46,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/yourusername/Smart-Wallet-Android.git
+git clone https://github.com/st5854295-ctrl/Smart-Wallet-Android.git
 Firebase Setup:
 
 Create a project in Firebase Console.
